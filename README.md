@@ -1,1 +1,3 @@
-# ml_tools
+# Machine Learning Tools
+
+Simple implementations of machine learning algorithms and statistics
